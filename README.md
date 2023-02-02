@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web and Mobile App Development
 - 🌱 I’m currently learning new Technology 
 - 💞️ I’m looking to collaborate on creative Project
-- 📫 How to reach me ...
+- 📫 Reach me at mdsajjadurrahaman@icloud.com
 
 Thank you!
 
