@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning new Technology 
 - 💞️ I’m looking to collaborate on creative Project
 - 📫 How to reach me ...
-- Thank you!
+
+Thank you!
 
 <!---
 MdSajjadurRahaman/MdSajjadurRahaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
